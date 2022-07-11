@@ -1,5 +1,5 @@
 {
-        "ropa":         [
+        "Ropa":         [
                 {"cantidad": "2", "boolean": "false", "nombre": "Bañador"},
                 {"cantidad": "1","boolean": "false", "nombre": "Chanclas"},
                 {"cantidad": "1","boolean": "false", "nombre": "Pantalón Vaquero"},
@@ -14,11 +14,11 @@
                 {"cantidad": "1","boolean": "false", "nombre": "Chandal"},
                 {"cantidad": "1","boolean": "false", "nombre": "Cinta Pelo"}
         ],
-        "complementos": [
+        "Complementos": [
                 {"cantidad": "1","boolean": "false", "nombre": "Gafas de Bucear"},            
                 {"cantidad": "1","boolean": "false", "nombre": "Gafas de Sol"}
         ],
-        "importante":   [
+        "Importante":   [
                 {"cantidad": "1","boolean": "false", "nombre": "Documentación"},
                 {"cantidad": "1","boolean": "false", "nombre": "Caja de Gafas"},
                 {"cantidad": "4","boolean": "false", "nombre": "Mascarillas"},
@@ -28,7 +28,7 @@
                 {"cantidad": "1","boolean": "false", "nombre": "Dinero"},
                 {"cantidad": "2","boolean": "false", "nombre": "Cascos"}
         ],
-        "neceser":      [
+        "Neceser":      [
                 {"cantidad": "2","boolean": "false", "nombre": "Gomas del pelo"},
                 {"cantidad": "1","boolean": "false", "nombre": "Protección solar"},
                 {"cantidad": "2","boolean": "false", "nombre": "Pañuelos"},
