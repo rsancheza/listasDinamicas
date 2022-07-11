@@ -1,0 +1,46 @@
+{
+        "ropa":         [
+                {"cantidad": "2", "boolean": "false", "nombre": "Bañador"},
+                {"cantidad": "1","boolean": "false", "nombre": "Chanclas"},
+                {"cantidad": "1","boolean": "false", "nombre": "Pantalón Vaquero"},
+                {"cantidad": "2","boolean": "false", "nombre": "Pantalón Corto"},
+                {"cantidad": "3","boolean": "false", "nombre": "Toalla"},
+                {"cantidad": "1","boolean": "false", "nombre": "Zapatos"},
+                {"cantidad": "7","boolean": "false", "nombre": "Ropa interior"},
+                {"cantidad": "5","boolean": "false", "nombre": "Camisetas"},
+                {"cantidad": "1","boolean": "false", "nombre": "Sudadera X1"},
+                {"cantidad": "2","boolean": "false", "nombre": "Camisa X2"},
+                {"cantidad": "1","boolean": "false", "nombre": "Cinturón"},
+                {"cantidad": "1","boolean": "false", "nombre": "Chandal"},
+                {"cantidad": "1","boolean": "false", "nombre": "Cinta Pelo"}
+        ],
+        "complementos": [
+                {"cantidad": "1","boolean": "false", "nombre": "Gafas de Bucear"},            
+                {"cantidad": "1","boolean": "false", "nombre": "Gafas de Sol"}
+        ],
+        "importante":   [
+                {"cantidad": "1","boolean": "false", "nombre": "Documentación"},
+                {"cantidad": "1","boolean": "false", "nombre": "Caja de Gafas"},
+                {"cantidad": "4","boolean": "false", "nombre": "Mascarillas"},
+                {"cantidad": "2","boolean": "false", "nombre": "Cargador"},
+                {"cantidad": "1","boolean": "false", "nombre": "Móvil"},
+                {"cantidad": "1","boolean": "false", "nombre": "Llaves"},
+                {"cantidad": "1","boolean": "false", "nombre": "Dinero"},
+                {"cantidad": "2","boolean": "false", "nombre": "Cascos"}
+        ],
+        "neceser":      [
+                {"cantidad": "2","boolean": "false", "nombre": "Gomas del pelo"},
+                {"cantidad": "1","boolean": "false", "nombre": "Protección solar"},
+                {"cantidad": "2","boolean": "false", "nombre": "Pañuelos"},
+                {"cantidad": "1","boolean": "false", "nombre": "Gel"},
+                {"cantidad": "1","boolean": "false", "nombre": "Champu"},
+                {"cantidad": "1","boolean": "false", "nombre": "Cepillo"},
+                {"cantidad": "1","boolean": "false", "nombre": "Agua de Peinado"},
+                {"cantidad": "1","boolean": "false", "nombre": "Naxorex"},
+                {"cantidad": "1","boolean": "false", "nombre": "Alergesin"},
+                {"cantidad": "1","boolean": "false", "nombre": "Ventolín"},
+                {"cantidad": "1","boolean": "false", "nombre": "Crema Pelo"},
+                {"cantidad": "1","boolean": "false", "nombre": "Repelente de insectos"},
+                {"cantidad": "1","boolean": "false", "nombre": "Pastillas dormir"},
+                {"cantidad": "1","boolean": "false", "nombre": "Desodorante"}
+         ]}
